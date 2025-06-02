@@ -14,6 +14,8 @@ A full-stack productivity app for organizing tasks across workflow stages.
 - Move tasks between columns or update details after creation
 - Tasks persist between sessions
 - Option to clear all tasks
+
+> Local-only: This app runs in a development environment and stores tasks on the user's device. No login or online sync — built for structure, not deployment.
     
 **Tech Stack**: Node.js, Express, SQLite, HTML, CSS, JavaScript
   

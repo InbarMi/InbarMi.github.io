@@ -1,38 +1,35 @@
 ### Heads up!
-**Most of my current repositories are private at the moment, so not much to see yet :)**
+**Hi, and thanks for visiting my GitHub Pages site.  Most of my repositories are currently private, but here are a couple of projects I’ve worked on:**
 
 ---
 
 ## Projects
 
-### 1. Task Management Web App (To-To App)
+### 1. Task Management Web App
 
-- **Description**: This is a full-stack task management app where users can add, edit and track their tasks across different status columns *To Do*, *In Progress*, and *Complete*.
-  
-- **Key Features**:
-  - Add tasks to one of three columns: To-Do, In-Progress, Complete.
-  - Keep track of details including: description, due-date and due-time.
-  - Modify details after posting the task.
-  - Clear the lists of tasks
-  - Move the task to a different status column
-  - Remember tasks across sessions.
+A full-stack productivity app for organizing tasks across workflow stages.
+
+- Organize tasks into **To Do**, **In Progress**, and **Complete** columns
+- Add and edit task details: name, description, due date & time
+- Move tasks between columns or update details after creation
+- Tasks persist between sessions
+- Option to clear all tasks
     
-- **Technologies Used**: Node.js, Express, SQL database
+**Tech Stack**: Node.js, Express, SQLite, HTML, CSS, JavaScript
   
-- [View the Project on GitHub](https://github.com/InbarMi/ToDo)
+- [View on GitHub →](https://github.com/InbarMi/ToDo)
 
-### 2. SunSmart ☀️ (UV Index App)
+### 2. SunSmart ☀️ - UV Index App
 
-- **Description**: A UV index checker that detects your location and displays the current UV index along with personalized sun safety tips. Built for mobile but works in the browser too.
+A mobile-friendly app that displays the current UV index based on your location and offers appropriate sun protection tips.
 
-- **Key Features**:
-  - Fetches UV index based on your geolocation
-  - Color-coded display to show UV risk level
-  - Safety tips tailored to the UV level
-  - Works as a web app or an Android app (via Capacitor)
-  - APK available in GitHub releases
+- Uses geolocation to fetch UV index data
+- Color-coded UV risk levels
+- Sun safety recommendations tailored to your UV level
+- Runs in-browser (hosted on Vercel)
+- Also packaged as an Android app with Capacitor
 
-- **Technologies Used**: HTML, CSS, JavaScript, Node.js, Vercel (API hosting), Capacitor (Android build)
+**Technologies Used**: HTML, CSS, JavaScript, Node.js, Vercel (API hosting), Capacitor (Android build)
 
-- [View the Project on GitHub](https://github.com/InbarMi/UV-Index-Checker)
-- [Try it in your browser](https://uv-index-checker.vercel.app/)
+- [View on GitHub →](https://github.com/InbarMi/UV-Index-Checker)
+- [Try the Web App →](https://uv-index-checker.vercel.app/)

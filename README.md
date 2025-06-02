@@ -1,5 +1,5 @@
-### Heads up!
-**Hi, and thanks for visiting my GitHub Pages site.  Most of my repositories are currently private, but here are a couple of projects I’ve worked on:**
+### Welcome!
+**Hi, and thanks for visiting my GitHub Pages site. Most of my repositories are currently private, but here are a couple of projects I’ve worked on:**
 
 ---
 
